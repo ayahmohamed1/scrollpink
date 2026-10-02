@@ -24,7 +24,7 @@ const defaultGift: GiftData = {
   birthdayImage: "/images/birthday-aya.png",          // صورة الهدية النهائية
   accentColor: "#38bdf8",                             // اللون الأزرق الفاتح المتوافق مع التصميم الجديد
   musicUrl: "",                                       // رابط الموسيقى هنا
-  message: `Happy birthday to the most beautiful girl, my beautiful girl! Thank you for all the happiness, comfort, and laughter you've brought into my life. Having you by my side is truly one of the most beautiful things in my life, and I'm grateful for you every single day. For all years, you've been my everything, my best friend, and the person I can tell all my secrets to. No one has ever been loved by me the way you are, and no one ever will. I love you so much, habibty i dont imagine my life without you. you are my sweetheart!`,
+  message: `Happy birthday to the most beautiful boy, my beautiful boy! Thank you for all the happiness, comfort, and laughter you've brought into my life. Having you by my side is truly one of the most beautiful things in my life, and I'm grateful for you every single day. For all years, you've been my everything, my best friend, and the person I can tell all my secrets to. No one has ever been loved by me the way you are, and no one ever will. I love you so much, habiby i dont imagine my life without you. you are my sweetheart!`,
 };
 
 const giftData: Record<string, GiftData> = {
